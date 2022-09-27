@@ -1,0 +1,27 @@
+body{
+    background-color: aqua;
+}
+#cabecera{
+    background-color: aquamarine;
+}
+#principal{
+    background-color: bisque;
+}
+#articulo{
+    background-color: azure;
+}
+#articulo{
+    margin: 5px;
+}
+#pie{
+    background-color: blue;
+}
+#pie{
+    text-align: center;
+}
+#pie{
+    color: white;
+    border-style: solid;
+    border-width: medium;
+    border-color: pink;
+}
